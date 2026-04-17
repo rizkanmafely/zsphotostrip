@@ -1,2 +1,0 @@
-# zsphotostrip
-biar ga boncos
